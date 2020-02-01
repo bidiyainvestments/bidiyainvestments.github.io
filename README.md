@@ -1,2 +1,2 @@
-# bidiyainvestments.github.io
-Home page
+# Invest in Knowledge
+. . .
